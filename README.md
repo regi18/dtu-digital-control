@@ -2,8 +2,11 @@
 
 ### Report
 
-TODO
+See [report.pdf](report.pdf)
 
+<a href="report.pdf" target="_blank">
+  <img src="https://github.com/user-attachments/assets/cea994fe-410d-4578-9f9f-772b0a8b6e68" alt="report-thumb" width="600" />
+</a>
 
 ### Full Simulink 
 
